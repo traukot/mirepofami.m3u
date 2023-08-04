@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:0,Olalá
-#EXTINF 欧美1,https://t7.cdn2020.com/video/m3u8/2021/04/16/b2cc3869/index.m3u8
-#EXTINF AV01,https://video1.rhsj520.com/nyrm3/heyzo222/heyzo_hd_0324_full/1500kb/hls/index.m3u8
-#EXTINF AV02,https://video1.rhsj520.com/nyrm3/heyzo222/heyzo_hd_0323_full/1500kb/hls/index.m3u8
-#EXTINF AV03,https://video1.rhsj520.com/nyrm3/heyzo222/heyzo_hd_0322_full/1500kb/hls/index.m3u8
+#EXTINF:-1 0,Olalá
+#EXTINF:-1 欧美1,https://t7.cdn2020.com/video/m3u8/2021/04/16/b2cc3869/index.m3u8
+#EXTINF:-1 AV01,https://video1.rhsj520.com/nyrm3/heyzo222/heyzo_hd_0324_full/1500kb/hls/index.m3u8
+EXTINF:-1 AV02,https://video1.rhsj520.com/nyrm3/heyzo222/heyzo_hd_0323_full/1500kb/hls/index.m3u8
+EXTINF:-1 AV03,https://video1.rhsj520.com/nyrm3/heyzo222/heyzo_hd_0322_full/1500kb/hls/index.m3u8
 #EXTINF AV04,https://video1.rhsj520.com/nyrm3/heyzo222/heyzo_hd_0321_full/1500kb/hls/index.m3u8
 #EXTINF AV05,https://video1.rhsj520.com/nyrm3/heyzo222/heyzo_hd_0320_full/1500kb/hls/index.m3u8
 #EXTINF AV06,https://video1.rhsj520.com/nyrm3/heyzo222/heyzo_hd_0319_full/1500kb/hls/index.m3u8
